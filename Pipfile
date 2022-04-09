@@ -10,6 +10,7 @@ webscr = {editable = true, path = "."}
 pytest = "*"
 tox = "*"
 sphinx = "*"
+pytest-cov = "*"
 
 [requires]
 python_version = "3.9"
