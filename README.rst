@@ -42,6 +42,19 @@ A longer description of your project goes here...
 
 .. _pyscaffold-notes:
 
+
+Getting Started
+====
+
+To start with pipenv
+
+	pip install pyscaffold pipenv
+	pipenv install
+	pipenv install -e .  # proxy setup.cfg install_requires
+	#  pipenv install --dev tox sphinx  # etc
+	pipenv run tox       # use `pipenv run` to access tools inside env
+
+
 Note
 ====
 

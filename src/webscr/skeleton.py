@@ -26,8 +26,8 @@ import sys
 
 from webscr import __version__
 
-__author__ = "maso"
-__copyright__ = "maso"
+__author__ = "ViraWeb123"
+__copyright__ = "ViraWeb123"
 __license__ = "MIT"
 
 _logger = logging.getLogger(__name__)
